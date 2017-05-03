@@ -4,6 +4,7 @@
   "description": "Retrieves CSS selector for a given element in DOM.",
   "homepage": "https://github.com/martinsbalodis/css-selector",
   "license": "LGPL-3.0+",
+  "main": "lib/CssSelector.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/martinsbalodis/css-selector"
